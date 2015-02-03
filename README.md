@@ -1,5 +1,5 @@
-# playground
+# Playground
 
-# SPEC
-* http://openid.net/specs/openid-connect-discovery-1_0.html
-
+## Specs
+* [Core](http://openid.net/specs/openid-connect-core-1_0.html)
+* [Client](http://openid.net/specs/openid-connect-basic-1_0.html)
